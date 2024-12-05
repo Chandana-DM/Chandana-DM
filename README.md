@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Full Stack developer
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Java Projects
-- 📫 How to reach me ...
+- 📫 How to reach me : Ajjampura,  Chikmagalur 
 - 😄 Pronouns: She
 - ⚡ Fun fact: I'm Binary
 
