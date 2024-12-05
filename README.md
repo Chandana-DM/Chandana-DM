@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: She
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm Binary
+
 
 <!---
 Chandana-DM/Chandana-DM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
