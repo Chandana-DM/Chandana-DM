@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me : Ajjampura,  Chikmagalur 
 - 😄 Pronouns: She
-- ⚡ Fun fact: I'm Binary
+  
 
 
 <!---
